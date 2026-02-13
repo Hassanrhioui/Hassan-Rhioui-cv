@@ -1,9 +1,3 @@
-Absolutely — here is a polished **GitHub‑profile‑style README** version of your CV. It’s designed to feel personal, developer‑friendly, and visually clean for your repo.
-
-You can paste this directly into `README.md` in your CV repository.
-
----
-
 #  Hi, I'm **Hassan Rhioui**
 
 ### *IT Infrastructure & Cloud Engineering Student*  
